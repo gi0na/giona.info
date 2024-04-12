@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Publications on Giona Casiraghi</title>
+    <link>https://giona.info/publications/</link>
+    <description>Recent content in Publications on Giona Casiraghi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://giona.info/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disentangling the Timescales of a Complex System: A Bayesian Approach to Temporal Network Analysis</title>
+      <link>https://giona.info/publications/2024/casiraghi2024timescales/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2024/casiraghi2024timescales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adapting to disruptions: Managing supply chain resilience through product rerouting</title>
+      <link>https://giona.info/publications/2024/amico2024adapting-to-disruptions/</link>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2024/amico2024adapting-to-disruptions/</guid>
+      <description>See our blog post on this research.</description>
+    </item>
+    <item>
+      <title>Reconstructing signed relations from interaction data</title>
+      <link>https://giona.info/publications/2022/andres2022reconstructing-signed-relations/</link>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2022/andres2022reconstructing-signed-relations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Predicting variable-length paths in networked systems using multi-order generative models.</title>
+      <link>https://giona.info/publications/2020/gote2020predicting-sequences-of/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2020/gote2020predicting-sequences-of/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spillover of Antisocial Behavior from Fringe Platforms: The Unintended Consequences of Community Banning</title>
+      <link>https://giona.info/publications/2023/russo2023spillover-of-antisocial/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2023/russo2023spillover-of-antisocial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Locating Community Smells in Software Development Processes Using Higher-Order Network Centralities</title>
+      <link>https://giona.info/publications/2023/gote2023community-smells/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2023/gote2023community-smells/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Understanding Online Migration Decisions Following the Banning of Radical Communities</title>
+      <link>https://giona.info/publications/2023/russo2023understanding-online-migration/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2023/russo2023understanding-online-migration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modeling social resilience: Questions, answers, open problems</title>
+      <link>https://giona.info/publications/2022/schweitzer2022modeling-social-resilience/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2022/schweitzer2022modeling-social-resilience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Struggling with change: The fragile resilience of collectives</title>
+      <link>https://giona.info/publications/2022/schweitzer2022struggling-with-change/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2022/schweitzer2022struggling-with-change/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Comparing Online and Offline Political Support</title>
+      <link>https://giona.info/publications/2022/brandenberger2022comparing-online-and/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2022/brandenberger2022comparing-online-and/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The downside of heterogeneity: How established relations counteract systemic adaptivity in tasks assignments</title>
+      <link>https://giona.info/publications/2021/casiraghi2021downside-heterogeneity/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2021/casiraghi2021downside-heterogeneity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Configuration models as an urn problem</title>
+      <link>https://giona.info/publications/2018/casiraghi2018generalised-hypergeometric-ensembles/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2018/casiraghi2018generalised-hypergeometric-ensembles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The likelihood-ratio test for multi-edge network models</title>
+      <link>https://giona.info/publications/2021/casiraghi2021the-likelihoodratio-test/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2021/casiraghi2021the-likelihoodratio-test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fragile, Yet Resilient: Adaptive Decline in a Collaboration Network of Firms</title>
+      <link>https://giona.info/publications/2021/schweitzer2021fragile-yet-resilient/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2021/schweitzer2021fragile-yet-resilient/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HYPA: Efficient Detection of Path Anomalies in Time Series Data on Networks</title>
+      <link>https://giona.info/publications/2020/larock2020hypa-efficient-detection/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2020/larock2020hypa-efficient-detection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Improving the robustness of online social networks: A simulation approach of network interventions</title>
+      <link>https://giona.info/publications/2020/casiraghi2020improving-the-robustness/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2020/casiraghi2020improving-the-robustness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intervention scenarios to enhance knowledge transfer in a network of firms</title>
+      <link>https://giona.info/publications/2020/casiraghi2020intervention-scenarios-to/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2020/casiraghi2020intervention-scenarios-to/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Probing the robustness of nested multi-layer networks</title>
+      <link>https://giona.info/publications/2019/casiraghi2019probing-the-robustness/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2019/casiraghi2019probing-the-robustness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The block-constrained configuration model</title>
+      <link>https://giona.info/publications/2019/casiraghi2019the-block-constrained-configuration/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2019/casiraghi2019the-block-constrained-configuration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Gaussian Process-based Self-Organizing Incremental Neural Network</title>
+      <link>https://giona.info/publications/2019/wang2019a-gaussian-process-based/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2019/wang2019a-gaussian-process-based/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantifying Triadic Closure in Multi-Edge Social Networks</title>
+      <link>https://giona.info/publications/2019/brandenberger2019quantifying-triadic-closure/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2019/brandenberger2019quantifying-triadic-closure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>What is the Entropy of a Social Organization?</title>
+      <link>https://giona.info/publications/2019/zingg2019what-is-the/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2019/zingg2019what-is-the/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>From Relational Data to Graphs: Inferring Significant Links Using Generalized Hypergeometric Ensembles</title>
+      <link>https://giona.info/publications/2017/casiraghi2017from-relational-data/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2017/casiraghi2017from-relational-data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multiplex Network Regression: How do relations drive interactions?</title>
+      <link>https://giona.info/publications/2017/casiraghi2017multiplex-network-regression/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2017/casiraghi2017multiplex-network-regression/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Generalized Hypergeometric Ensembles: Statistical Hypothesis Testing in Complex Networks</title>
+      <link>https://giona.info/publications/2016/casiraghi2016generalized-hypergeometric-ensembles/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2016/casiraghi2016generalized-hypergeometric-ensembles/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
