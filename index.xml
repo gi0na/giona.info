@@ -184,12 +184,12 @@
       <description></description>
     </item>
     <item>
-      <title>Research Interests</title>
-      <link>https://giona.info/research/</link>
+      <title>About me</title>
+      <link>https://giona.info/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://giona.info/research/</guid>
-      <description>I explore the resilience and dynamics of complex systems, with a focus on economic and social organizations, through data-driven analysis and statistical modeling. My research is twofold: understanding the resilience of complex systems, especially in social and economic contexts, and modeling these systems to uncover their properties.
-Resilience in Social-Economical Systems My goal is to understand how social organizations manage and recover from disruptions. This involves developing resilience metrics based on data analysis.</description>
+      <guid>https://giona.info/about/</guid>
+      <description>I am a senior researcher at the Chair of Systems Design at ETH Zürich, and hold a Doctorate in Data Science from ETH Zürich.
+I explore the resilience and dynamics of complex systems using network science and advanced data-driven modeling. My current focus is on modelling and understanding the resilience of pharmaceutical supply chains using variable length markov chain models and graph theory. Here you can find a press release about our recent work on this topic.</description>
     </item>
   </channel>
 </rss>
