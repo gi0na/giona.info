@@ -6,8 +6,15 @@
     <description>Recent content on Giona Casiraghi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://giona.info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empirical Networks are Sparse: Enhancing Multi-Edge Models with Zero-Inflation</title>
+      <link>https://giona.info/publications/2024/casiraghi2024sparse/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://giona.info/publications/2024/casiraghi2024sparse/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Disentangling the Timescales of a Complex System: A Bayesian Approach to Temporal Network Analysis</title>
       <link>https://giona.info/publications/2024/casiraghi2024timescales/</link>
